@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run dev:*)",
+      "Bash(netstat:*)",
+      "Bash(findstr:*)",
+      "Bash(npx next dev)",
+      "Bash(npx next dev:*)",
+      "Bash(npx vitest:*)",
+      "Bash(echo:*)",
+      "Bash(node:*)"
+    ]
+  }
+}

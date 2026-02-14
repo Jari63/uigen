@@ -8,7 +8,9 @@
       "Bash(npx next dev:*)",
       "Bash(npx vitest:*)",
       "Bash(echo:*)",
-      "Bash(node:*)"
+      "Bash(node:*)",
+      "Bash(start:*)",
+      "mcp__playwright"
     ]
   }
 }
